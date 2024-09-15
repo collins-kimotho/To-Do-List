@@ -34,7 +34,7 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check the issues page for open issues or submit a pull request.
 
 
-Contact
-For questions or collaboration, contact me at:
+## Contact
+For questions or collaboration, contact me at: <br>
 Email: [collinskimotho16@gmail.com](collinskimotho16@gmail.com) <br>
 GitHub: [collins-kimotho](https://github.com/collins-kimotho/)
